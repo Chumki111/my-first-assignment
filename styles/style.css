@@ -7,7 +7,7 @@
     
     background-color: #FCEEF1;
     display: flex;
-    justify-content: space-around;
+    justify-content: space-between; 
     align-items: center;
 }
 
@@ -15,4 +15,20 @@
     width: 500px;
     height: 655px;
     
+}
+.btn-primary{
+    background-color: #E55473;
+    border: none;
+    color: #eee2ec;
+    width: 110px;
+    height: 40px;
+    border-radius: 5px;
+    padding: 4px;
+    
+   
+}
+.title{
+    font-size: 55px;
+    font-family: sans-serif;
+    font-weight: bold;
 }
