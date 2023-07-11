@@ -77,7 +77,7 @@
     
 }
 .featurec-title{
-    font-size: 25px;
+    font-size: 30px;
     font-family: sans-serif;
     font-weight: bold;
     padding-bottom: 20px;
@@ -108,4 +108,32 @@
 }
 .group-3{
     padding-left: 10px;
+}
+
+.deal{
+    width: 1900px;
+    height: 600px;
+    background-color: #FEF6F8;
+    margin-top: 70px;
+    justify-content: space-around;
+    align-items: center;
+}
+.hot-deal{
+    display: flex;
+    align-items: center;
+    gap:60px;
+}
+.span{
+    color: #E55473;
+}
+.deal-description{
+    padding-left: 250px;
+    padding-top: 250px;
+}
+.deal-photo{
+    width: 50px;
+    height: 100px;
+    padding-top: 10px;
+    padding-right: 30px;
+   
 }
