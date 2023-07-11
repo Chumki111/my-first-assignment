@@ -7,7 +7,7 @@
 .container{
     display: flex;
     background-color:#c2b2b7;
-    padding: 15px;
+    padding: 10px;
     justify-content: space-around;
 }
 .manus{
