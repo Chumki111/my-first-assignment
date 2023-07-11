@@ -142,6 +142,7 @@
     
     margin-top: 50px;
     text-align: center;
+    
 }
 
 .instagram-box{
@@ -157,4 +158,8 @@
 }
 .box{
     padding: 0px;
+}
+.lates-deal{
+    height: 450px;
+    width: 1440px;
 }
