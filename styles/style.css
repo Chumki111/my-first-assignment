@@ -11,6 +11,7 @@
     align-items: center;
     padding: 0px 150px;
     gap:70px;
+    background-position: center;
 }
 
 .photo{
@@ -38,4 +39,56 @@
 .description{
     line-height: 20px;
     padding-bottom: 30px;
+}
+.featured{
+    height: 100vh;
+   
+}
+.pink-flower{
+    border: 2px solid black;
+    width: 300px;
+    height: 350px;
+    background-color: #F2DEE7;
+    background-position: center;
+    border-radius:  50% 50% 0px 0px;
+   
+
+}
+
+.pink-flower-3{
+    border: 2px solid black;
+    width: 400px;
+    height: 430px;
+    background-color: #E3EBD8;
+    background-position: center;
+    border-radius:  50% 50% 0px 0px;
+}
+
+.pink-flower-2{
+    border: 2px solid black;
+    width: 400px;
+    height: 430px;
+    background-color:#D9EFF1;
+    background-position: center;
+    border-radius:  40% 40% 0px 0px;
+}
+.featured{
+    text-align: center;
+    padding-top: 150px;
+}
+.featured-photo{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 10px;
+}
+.pink{
+    width: 220px;
+    height: 350px;
+}
+.featurec-title{
+    font-size: 25px;
+    font-family: sans-serif;
+    font-weight: bold;
+    padding-bottom: 20px;
 }
