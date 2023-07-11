@@ -44,15 +44,31 @@
     height: 100vh;
    
 }
-.pink-flower{
+
+.pink-flower-1{
+    background-color: #F2DEE7;
+    background-position: center;
+    border-radius:  50% 50% 0px 0px;
+    padding-top: 30px;
    
-    width: 350px;
-    height:400px;
+}
+
+.pink-flower-2{
     background-color: #D9EFF1;
     background-position: center;
     border-radius:  50% 50% 0px 0px;
+    width: 350px;
+    height:450px;
    
-
+}
+.pink-flower-3{
+    background-color: #E3EBD8;
+    background-position: center;
+    border-radius:  50% 50% 0px 0px;
+    width: 350px;
+    height:450px;
+   
+   
 }
 
 
