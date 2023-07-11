@@ -131,9 +131,30 @@
     padding-top: 250px;
 }
 .deal-photo{
-    width: 50px;
+    width: 500px;
     height: 100px;
-    padding-top: 10px;
+    padding-top: 0px;
     padding-right: 30px;
    
+}
+.instagram{
+    height: 80vh;
+    
+    margin-top: 50px;
+    text-align: center;
+}
+
+.instagram-box{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    text-align: center;
+    gap: 30px;
+    border-radius: 4px;
+    padding-top: 30px;
+    
+   
+}
+.box{
+    padding: 0px;
 }
